@@ -1,0 +1,10 @@
+body {
+  background-image: url("http://www.telegraph.co.uk/content/dam/Travel/leadAssets/32/82/belize_3282299a-large.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}

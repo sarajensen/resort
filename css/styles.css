@@ -9,6 +9,11 @@ html, body {
   height: 100%;
 }
 
+img {
+  width: auto;
+  width: 400px;
+}
+
 h1 {
   font-style: italic;
 }
